@@ -20,7 +20,7 @@ export default {
   },
   methods: {
     send () {
-      this.ws.send('我发送了一个消息2');
+      this.ws.send('ddd');
     }
   },
 }
